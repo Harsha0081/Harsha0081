@@ -20,7 +20,7 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/office-desk-animation.gif" />
+    <img src="./assets/office-desk-animation.gif" width="500" height="400"/>
 </p>
  
 <p align="center" style='margin: 8px 4px;'>
