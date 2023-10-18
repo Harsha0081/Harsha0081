@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">
     I am Computer Science Post Graduate from RVS India.<br />
-    I am working as Content creator, Trainer & as a CRO<br/>
+    I am working as Content creator, Trainer <br/>
     I like solving competitive coding problems, exploring new technologies, playing chess, travelling.
 </h3>
 <p align='center' style='font-size: 20px; color=blue;'>
